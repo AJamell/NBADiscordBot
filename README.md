@@ -2,7 +2,7 @@
 ## Project Description
 
 `Nba Trivia Bot is a program that asks users various questions about the NBA. 
-In this program, the discord bot will take user commands to start a game, game status, users in game, and end game.
+In this program, the discord bot will take commands of a user to start a game, game status, users in game, and end game.
 The bot will then use the core application to gather scores for each user and display the winner at the end of the game.`
 
 ## System Diagram

@@ -43,7 +43,6 @@ The bot will then use the core application to gather scores for each user and di
 ```sh
 git clone https://github.com/AJamell/NBADiscordBot.git
 cd NBADiscordBot
-mvn clean
 ```
 
 ## System Diagram
